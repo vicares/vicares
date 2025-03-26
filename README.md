@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Victor Soares
 ![Banner](https://ravel.com.br/blog/wp-content/uploads/2023/07/banner-meio-blog-2.png) <!-- Substitua pelo link de um banner personalizado -->
 ## 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em **Prefeitura Municipal de Campos dos Goytacazes**
-- 🌱 Aprendendo **NodeJS/PostgreSQL/HTML/CSS/Docker/Git**
+- 🔭 Atualmente trabalhando na **Prefeitura Municipal de Campos dos Goytacazes**
+- 🌱 Aprendendo **NodeJS/ReactJS/PostgreSQL/HTML/CSS/Docker/Git**
 - 💬 Pergunte-me sobre **Excel/PowerBI**
 - 📫 Como me encontrar: **[victor9soares@gmail.com](mailto:victor9soares@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victor-soares-808/) | [Twitter](https://x.com/vctrs1?s=21&t=_L7fvSKio_XSkYc-9BNikw)** | [Instagram](https://www.instagram.com/vctrs1)
 ---
